@@ -228,6 +228,25 @@ body {
   font-weight: 500;
   margin-bottom: 15px;
 }
+.services-list div h3 {
+  font-size: 20px;
+  font-weight: 500;
+}
+.services-list div h4 {
+  padding-top: 15px;
+  font-size: 15px;
+}
+
+.services-list div p {
+  padding-top: 20px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.cs {
+  padding-top: -10px;
+  font-size: 15px;
+  font-weight: 400;
+}
 .services-list div a {
   text-decoration: none;
   color: #000000;
